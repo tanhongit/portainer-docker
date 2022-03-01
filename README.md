@@ -15,14 +15,14 @@ Go to compose folder - run:
 cd portainer-docker
 ```
 
-Then run
+Then run:
 ```
 docker-compose up -d
 ```
 
 ## 3. Check the network ID
 
-Run 
+Run:
 ```
 docker ps
 ```

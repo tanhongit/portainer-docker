@@ -1,6 +1,6 @@
 # Portainer Docker Compose
 
-## 1.Modify env values in **.env** file
+## 1. Modify env values in **.env** file
 
 Change APP_NAME APP_PORT accordingly
 
@@ -20,7 +20,7 @@ Then run
 docker-compose up -d
 ```
 
-## Check the network ID
+## 3. Check the network ID
 
 Run 
 ```

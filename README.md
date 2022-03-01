@@ -1,5 +1,7 @@
 # Portainer Docker Compose
 
+Portainer is a tool that simplifies the management and maintenance of Docker’s containers.
+
 ## 1. Modify env values in **.env** file
 
 Change APP_NAME APP_PORT accordingly

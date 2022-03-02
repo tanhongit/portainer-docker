@@ -1,6 +1,6 @@
 # Portainer Docker Compose
 
-Portainer is a tool that simplifies the management and maintenance of Docker’s containers.
+Portainer is a tool that simplifies the management and maintenance of Docker’s containers. A simple setup to deploy Portainer using `docker-compose`
 
 ## 1. Requirements
 - Install [Docker](https://docker.io/)

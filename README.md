@@ -2,6 +2,8 @@
 
 Portainer is a tool that simplifies the management and maintenance of Docker’s containers. A simple setup to deploy Portainer using `docker-compose`
 
+[Portainer Source](https://github.com/portainer/portainer)
+
 ## 1. Requirements
 - Install [Docker](https://docker.io/)
 - (Optional) Install [Docker-compose](https://docs.docker.com/compose/install/)

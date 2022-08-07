@@ -53,3 +53,9 @@ You will get the IP address of this Container.
 ## 5. Using
 
 You can then access Portainer by using the IP address that you got it in step 4 over port 9000 with a web browser.
+
+## 6. Demo
+
+![image](https://user-images.githubusercontent.com/35853002/183297756-3550bd9f-0255-49a7-828e-d49ff9097b40.png)
+![image](https://user-images.githubusercontent.com/35853002/183297770-2736cb5b-5974-4be5-8af4-e7b77646e18c.png)
+

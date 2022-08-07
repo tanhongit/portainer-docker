@@ -18,6 +18,8 @@ cd portainer-docker
 
 Change APP_NAME APP_PORT accordingly
 
+Or using default values:
+
 ```
 APP_NAME=portainer
 APP_PORT=9001

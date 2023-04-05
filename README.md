@@ -59,3 +59,7 @@ You will get the IP address of this Container.
 ## Using
 
 You can then access Portainer by using the IP address that you got it in step 4 over port 9000 with a web browser.
+
+Example:
+
+If the IP address is `172.18.0.2`, you can access Portainer by using the URL `http://172.18.0.2:9000`.

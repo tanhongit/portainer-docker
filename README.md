@@ -13,8 +13,7 @@ Portainer is a tool that simplifies the management and maintenance of Docker’s
 Run:
 
 ```bash
-git clone git@github.com:tanhongit/portainer-dockercompose.git
-cd portainer-dockercompose/portainer-docker
+git clone git@github.com:tanhongit/portainer-docker.git
 ```
 
 ## Modify env values in **.env** file

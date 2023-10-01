@@ -14,11 +14,18 @@ Run:
 
 ```bash
 git clone git@github.com:tanhongit/portainer-docker.git
+cd portainer-docker
+```
+
+## Copy .env.example to .env
+
+```
+cp .env.example .env
 ```
 
 ## Modify env values in **.env** file
 
-Change APP_NAME APP_PORT accordingly
+Change **APP_NAME** and **APP_PORT** accordingly
 
 Or using default values:
 
@@ -55,10 +62,10 @@ docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' <con
 
 You will get the IP address of this Container.
 
-## Using
+## Usage
 
 You can then access Portainer by using the IP address that you got it in step 4 over port 9000 with a web browser.
 
-Example:
+**Example:**
 
 If the IP address is `172.18.0.2`, you can access Portainer by using the URL `http://172.18.0.2:9000`.
